@@ -30,7 +30,7 @@
 
 ## 项目环境
 
-- Windows 10
+- Windows 11
 - Docker Desktop
 - DVWA
 - Burp Suite Community Edition

@@ -19,7 +19,7 @@
 
 | 组件 | 说明 |
 |---|---|
-| 操作系统 | Windows 10 |
+| 操作系统 | Windows 11 |
 | 容器环境 | Docker Desktop |
 | 漏洞靶场 | DVWA |
 | 抓包工具 | Burp Suite Community Edition |
